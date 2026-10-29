@@ -1,0 +1,6 @@
+{
+  "name": "OmniPost AI - Cross-Platform Social Content & Image Generator",
+  "description": "Transform any idea into synchronized, platform-optimized posts for LinkedIn, Twitter/X, and Instagram with tailored tones, studio-quality AI images, and virality analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
